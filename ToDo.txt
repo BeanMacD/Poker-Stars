@@ -1,0 +1,4 @@
+- Add difficulty option
+- Clean up GameOfPoker!!!!!
+- Find real winner after human eliminated?
+- clear Twitter account
